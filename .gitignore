@@ -1,0 +1,128 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder config files
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Mono Auto Generated Files
+*.pidb
+*.booproj
+*.unityproj
+*.sln.ide
+*.csproj.ide
+*.tmp
+*.log
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code workspace
+.vscode/
+.vscode-test/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+.idea_modules/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+TargetDirectories.txt
+
+# Output directories for CMake
+build/
+_build/
+
+# MSVC build directories
+out/
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Qt
+*.moc
+*.qrc
+*.ui
+
+# Visual Studio IntelliSense database
+*.ncb
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# Build logs
+*.tlog
+*.log
+*.vshost.exe.manifest
+
+# Visual Studio generated cache files
+*.tlog
+*.cachefile
+*.obj
+*.pdb
+*.idb
+*.ipdb
+*.iobj
+
+# Visual Studio temporary generated files
+*.lastbuildstate
+*.log
+*.vspscc
+*.vspx
+*.vsmdi
+*.scc
+.vs/
